@@ -39,6 +39,8 @@ Frontend Part(UI Part):
 	iii)Edit customer:open a edit page to the selected customer.
 	iv)Delete cuatomer/:to delete the the selected customer.
 	v)back to list: to go back to list.
-3)Perform CRUD and check in the database
+3)here Perform CRUD and checked in the database
+4)For this application validation part not added.
+
 
 @Nita Kalukhe
